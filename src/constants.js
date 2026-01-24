@@ -5,9 +5,9 @@ import javascriptLogo from './assets/tech_logo/javascript.png';
 import reactjsLogo from './assets/tech_logo/reactjs.png';
 import reduxLogo from './assets/tech_logo/redux.png';
 import tailwindcssLogo from './assets/tech_logo/tailwindcss.png';
-import springbootLogo from './assets/tech_logo/springboot.png';
-import mysqlLogo from './assets/tech_logo/mysql.png';
-import mongodbLogo from './assets/tech_logo/mongodb.png';
+// import springbootLogo from './assets/tech_logo/springboot.png';
+// import mysqlLogo from './assets/tech_logo/mysql.png';
+// import mongodbLogo from './assets/tech_logo/mongodb.png';
 import cLogo from './assets/tech_logo/c.png';
 import cppLogo from './assets/tech_logo/cpp.png';
 import javaLogo from './assets/tech_logo/java.png';
@@ -17,9 +17,9 @@ import githubLogo from './assets/tech_logo/github.png';
 import vscodeLogo from './assets/tech_logo/vscode.png';
 import postmanLogo from './assets/tech_logo/postman.png';
 import netlifyLogo from './assets/tech_logo/netlify.png';
-import maven from  './assets/tech_logo/Maven.jpg';
-import restApi from  './assets/tech_logo/RestApi.jpg';
-import sql from './assets/tech_logo/sql.jpg';
+// import maven from  './assets/tech_logo/Maven.jpg';
+// import restApi from  './assets/tech_logo/RestApi.jpg';
+// import sql from './assets/tech_logo/sql.jpg';
 import intellij from './assets/tech_logo/intellij.png';
 
 // // Experience Section Logo's
@@ -89,17 +89,17 @@ export const SkillsInfo = [
       { name: 'Tailwind CSS', logo: tailwindcssLogo },
     ],
   },
-  {
-    title: 'Backend',
-    skills: [
-      { name: 'Springboot', logo: springbootLogo },
-      { name: 'MySQL', logo: mysqlLogo },
-      { name: 'MongoDB', logo: mongodbLogo },
-      { name: 'REST API', logo: restApi },
-      { name: 'Maven', logo: maven },
-      { name: 'SQL', logo: sql },
-    ],
-  },
+  // {
+  //   title: 'Backend',
+  //   skills: [
+  //     { name: 'Springboot', logo: springbootLogo },
+  //     { name: 'MySQL', logo: mysqlLogo },
+  //     { name: 'MongoDB', logo: mongodbLogo },
+  //     { name: 'REST API', logo: restApi },
+  //     { name: 'Maven', logo: maven },
+  //     { name: 'SQL', logo: sql },
+  //   ],
+  // },
   {
     title: 'Languages',
     skills: [

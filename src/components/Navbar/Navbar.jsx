@@ -71,7 +71,7 @@ const Navbar = () => {
         {/* Social Icons */}
         <div className="hidden md:flex space-x-6 ml-6">
           <a
-            href="https://github.com/Pawan-Pandey1"
+            href="https://github.com/satyamshukla-wq"
             target="_blank"
             rel="noopener noreferrer"
             className="text-gray-300 hover:text-orange-500"
@@ -79,7 +79,7 @@ const Navbar = () => {
             <FaGithub size={24} />
           </a>
           <a
-            href="https://www.linkedin.com/in/pawan-pandey-ab4546231/"
+            href="https://www.linkedin.com/in/satyam-shukla-674562350/"
             target="_blank"
             rel="noopener noreferrer"
             className="text-gray-300 hover:text-orange-500"
@@ -130,7 +130,7 @@ const Navbar = () => {
                 <FaGithub size={24} />
               </a>
               <a
-                href="https://www.linkedin.com/in/pawan-pandey-ab4546231/"
+                href="https://www.linkedin.com/in/satyam-shukla-674562350/"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-gray-300 hover:text-orange-500"

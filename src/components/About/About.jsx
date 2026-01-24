@@ -1,8 +1,8 @@
 import React, { useEffect, useRef, useState } from 'react';
 import ReactTypingEffect from 'react-typing-effect';
 import Tilt from 'react-parallax-tilt';
-import { motion, useAnimation, useInView } from 'framer-motion';
-import profileImage from "../../assets/ProfilePhoto.jpg";
+import {useAnimation, useInView } from 'framer-motion';
+import profileImage from "../../assets/ProfilePhoto.jpeg";
 
 const About = () => {
   const controls = useAnimation();
@@ -121,7 +121,7 @@ const About = () => {
                 backgroundClip: 'text',
               }}
             >
-              Pawan Pandey
+             Satyam Shukla
             </motion.span>
           </motion.h2>
 
@@ -141,7 +141,7 @@ const About = () => {
               transition={{ delay: 1.2 }}
             >
               <ReactTypingEffect
-                text={['Coder', 'Java Developer', 'Backend Developer']}
+                text={['Coder', 'Frontend Developer', 'Backend Developer']}
                 speed={100}
                 eraseSpeed={50}
                 typingDelay={500}
