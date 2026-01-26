@@ -1,7 +1,7 @@
 import React, { useEffect, useRef, useState } from 'react';
 import ReactTypingEffect from 'react-typing-effect';
 import Tilt from 'react-parallax-tilt';
-import {useAnimation, useInView } from 'framer-motion';
+import { motion, useAnimation, useInView } from 'framer-motion';
 import profileImage from "../../assets/ProfilePhoto.jpeg";
 
 const About = () => {

@@ -3,24 +3,24 @@ import htmlLogo from './assets/tech_logo/html.png';
 import cssLogo from './assets/tech_logo/css.png';
 import javascriptLogo from './assets/tech_logo/javascript.png';
 import reactjsLogo from './assets/tech_logo/reactjs.png';
-import reduxLogo from './assets/tech_logo/redux.png';
+// import reduxLogo from './assets/tech_logo/redux.png';
 import tailwindcssLogo from './assets/tech_logo/tailwindcss.png';
 // import springbootLogo from './assets/tech_logo/springboot.png';
 // import mysqlLogo from './assets/tech_logo/mysql.png';
 // import mongodbLogo from './assets/tech_logo/mongodb.png';
-import cLogo from './assets/tech_logo/c.png';
-import cppLogo from './assets/tech_logo/cpp.png';
-import javaLogo from './assets/tech_logo/java.png';
-import pythonLogo from './assets/tech_logo/python.png';
+// import cLogo from './assets/tech_logo/c.png';
+// import cppLogo from './assets/tech_logo/cpp.png';
+// import javaLogo from './assets/tech_logo/java.png';
+// import pythonLogo from './assets/tech_logo/python.png';
 import gitLogo from './assets/tech_logo/git.png';
 import githubLogo from './assets/tech_logo/github.png';
 import vscodeLogo from './assets/tech_logo/vscode.png';
-import postmanLogo from './assets/tech_logo/postman.png';
+// import postmanLogo from './assets/tech_logo/postman.png';
 import netlifyLogo from './assets/tech_logo/netlify.png';
 // import maven from  './assets/tech_logo/Maven.jpg';
 // import restApi from  './assets/tech_logo/RestApi.jpg';
 // import sql from './assets/tech_logo/sql.jpg';
-import intellij from './assets/tech_logo/intellij.png';
+// import intellij from './assets/tech_logo/intellij.png';
 
 // // Experience Section Logo's
 import jpmorgan from './assets/company_logo/JpMorgan.png';
@@ -85,7 +85,7 @@ export const SkillsInfo = [
       { name: 'CSS', logo: cssLogo },
       { name: 'JavaScript', logo: javascriptLogo },
       { name: 'React JS', logo: reactjsLogo },
-      { name: 'Redux', logo: reduxLogo },
+      // { name: 'Redux', logo: reduxLogo },
       { name: 'Tailwind CSS', logo: tailwindcssLogo },
     ],
   },
@@ -100,25 +100,25 @@ export const SkillsInfo = [
   //     { name: 'SQL', logo: sql },
   //   ],
   // },
-  {
-    title: 'Languages',
-    skills: [
-      { name: 'C', logo: cLogo },
-      { name: 'C++', logo: cppLogo },
-      { name: 'Java', logo: javaLogo },
-      { name: 'Python', logo: pythonLogo },
-      { name: 'JavaScript', logo: javascriptLogo },
-    ],
-  },
+  // {
+  //   title: 'Languages',
+  //   skills: [
+  //     { name: 'C', logo: cLogo },
+  //     { name: 'C++', logo: cppLogo },
+  //     { name: 'Java', logo: javaLogo },
+  //     { name: 'Python', logo: pythonLogo },
+  //     { name: 'JavaScript', logo: javascriptLogo },
+  //   ],
+  // },
   {
     title: 'Tools',
     skills: [
       { name: 'Git', logo: gitLogo },
       { name: 'GitHub', logo: githubLogo },
       { name: 'VS Code', logo: vscodeLogo },
-      { name: 'Postman', logo: postmanLogo },
+      // { name: 'Postman', logo: postmanLogo },
       { name: 'Netlify', logo: netlifyLogo },
-      { name: 'IntelliJ IDEA', logo: intellij },
+      // { name: 'IntelliJ IDEA', logo: intellij },
     ],
   },
 ];
