@@ -36,7 +36,7 @@ const certificates = [
     name: "Introduction to Web Development with HTML, CSS, JavaScript",
     platform: "Coursera",
     logo: CourseraLogo,
-    url: "https://coursera.org/share/086e67ac8629aef2753671de35842eb2",
+    url: "....................................",
   },
   {
     id: 6,
