@@ -5,24 +5,25 @@ import NptelLogo from "../../assets/nptel-logo.png";
 const certificates = [
   {
     id: 1,
-    name: "Social Networks",
-    platform: "NPTEL",
+    name: "GenAI Powered Data Analytics Job Simulation",
+    platform: "TATA(Forage)",
     logo: NptelLogo,
-    url: "https://drive.google.com/file/d/1Bxx8bYJI2IB2IGHJcfh_Z0lxLhmTImLJ/view",
+    url:"https://drive.google.com/file/d/1kGjdzxztKXVCK6DQHrdcvw352q7SbXwL/view?usp=sharing"
+     ,
   },
   {
     id: 2,
-    name: "Discrete Mathematics",
-    platform: "NPTEL",
+    name: "Technology Job Simulation",
+    platform: "Deloitte.",
     logo: NptelLogo,
-    url: "https://drive.google.com/file/d/1Bxx8bYJI2IB2IGHJcfh_Z0lxLhmTImLJ/view?usp=sharing",
+    url:"https://drive.google.com/file/d/1dcKQ7lqxybJJ9N-qABck1p3v200rkThN/view?usp=sharing",
   },
   {
     id: 3,
-    name: "Java as a Second Language",
-    platform: "Coursera",
+    name: "Data Science Job Simulation",
+    platform: "Forage",
     logo: CourseraLogo,
-    url: "https://coursera.org/share/0a9a904b0ed228ac876cc5808fb6eae7",
+    url: "https://drive.google.com/file/d/17r65ZI0d4g8q2Y8WcQYgPB19t-7KJsO2/view?usp=sharing",
   },
   {
     id: 4,
