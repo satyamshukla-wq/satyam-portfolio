@@ -28,8 +28,8 @@ import sync from './assets/company_logo/Sync.jpg';
 import oasis from './assets/company_logo/Oasis.jpg';
 
 // Education Section Logo's
-import CU from './assets/education_logo/cu.jpg';
-import RGPS from './assets/education_logo/RoyalGondwana.jpg';
+import CU from './assets/education_logo/Gs.jpeg';
+import RGPS from './assets/education_logo/Rs.jpeg';
 import SOS from './assets/education_logo/sos.jpg';
 
 // // Project Section Logo's
@@ -172,20 +172,20 @@ export const SkillsInfo = [
     {
       id: 0,
       img: CU,
-      school: "Chandigarh University, Mohali, Punjab",
-      date: "Aug 2021 - July 2025",
+      school: "G.S. College of Commerce and Economics,Nagpur",
+      date: "Aug 2023 - July 2026",
       grade: "8.54 CGPA",
-      desc: "I have completed my Bachelor's degree (B.E. in Computer Science and Engineering) from Chandigarh University. During my time at Chandigarh University, I gained a strong foundation in programming, software development, and computer science principles. I have studied courses such as Data Structures, Algorithms, Object-Oriented Programming, Database Management Systems, Web Development, and Software Engineering. I actively participated in various workshops and technical events, which enhanced my skills and knowledge. My experience at Chandigarh University has been instrumental in shaping my technical abilities and professional growth.",
-      degree: "Bachelor of Engineering (Computer Science)",
+      desc: " I have completed I have completed my Bachelor's degree (Bachelor of Commerce in Computer Applications - BCCA). During my academic journey, I developed a strong foundation in computer applications and information technology, with coursework in Programming, Database Management Systems, Web Technologies, and Software Development. I actively participated in technical workshops and activities that enhanced my practical knowledge and problem-solving skills. The BCCA program played a key role in strengthening my technical competence and professional growth. Bachelor's degree (Bachelor of Commerce in Computer Applications - BCCA). During my academic journey, I built a strong foundation in computer applications and information technology. My coursework included Programming Concepts, Database Management Systems, Web Technologies, Software Development, Data Management, and System Applications. I actively participated in technical workshops and academic activities, which helped me strengthen my practical knowledge and problem-solving skills. My experience during the BCCA program has significantly contributed to the development of my technical competence and overall professional growth. completed my Bachelor's degree (B.E. in Computer Science and Engineering) from Chandigarh University. During my time at Chandigarh University, I gained a strong foundation in programming, software development, and computer science principles. I have studied courses such as Data Structures, Algorithms, Object-Oriented Programming, Database Management Systems, Web Development, and Software Engineering. I actively participated in various workshops and technical events, which enhanced my skills and knowledge. My experience at Chandigarh University has been instrumental in shaping my technical abilities and professional growth.",
+      degree: "(BCCA)Bachelor of Commerce in Computer Application(Computer Application)",
     },
     {
       id: 1,
       img: RGPS,
-      school: "Royal Gondwana Public School, Nagpur, Maharastra",
+      school: "R.S Mundle Dharampeth Arts and Commerce College, Nagpur,Maharashtra",
       date: "Sept 2019 - Aug 2020",
       // grade: "77.4%",
-      desc: "I completed my class 12 education from Royal Gondwana Public School, Nagpur, Maharashtra, under the CBSE board, where I studied Physics, Chemistry, Mathematics, English and Physical Education .",
-      degree: "CBSE(XII) - PCM",
+      desc: "I completed my class 12 education from R.S Mundle Dharampeth Arts and Commerce College, Nagpur, Maharashtra under the Maharashtra State Board of Secondary and Higher Secondary Education (MSBSHSE) in the Commerce stream, where I studied IT,Accountancy, Business Studies, Economics, and English.",
+      degree: "MSBSHSE(XII)",
     },
     {
       id: 2,
