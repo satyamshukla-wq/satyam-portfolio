@@ -30,7 +30,7 @@ import oasis from './assets/company_logo/Oasis.jpg';
 // Education Section Logo's
 import CU from './assets/education_logo/Gs.jpeg';
 import RGPS from './assets/education_logo/Rs.jpeg';
-import SOS from './assets/education_logo/sos.jpg';
+import SOS from './assets/education_logo/NMC.jpeg';
 
 // // Project Section Logo's
 import scm0 from "./assets/work_logo/scm/scm0.png";
@@ -182,7 +182,7 @@ export const SkillsInfo = [
       id: 1,
       img: RGPS,
       school: "R.S Mundle Dharampeth Arts and Commerce College, Nagpur,Maharashtra",
-      date: "Sept 2019 - Aug 2020",
+      date: "Aug 2022 - feb 2023",
       // grade: "77.4%",
       desc: "I completed my class 12 education from R.S Mundle Dharampeth Arts and Commerce College, Nagpur, Maharashtra under the Maharashtra State Board of Secondary and Higher Secondary Education (MSBSHSE) in the Commerce stream, where I studied IT,Accountancy, Business Studies, Economics, and English.",
       degree: "MSBSHSE(XII)",
@@ -190,11 +190,11 @@ export const SkillsInfo = [
     {
       id: 2,
       img: SOS,
-      school: "School of Scholars, Nagpur, Maharashtra",
-      date: "Aug 2017 - March 2018",
+      school: "Surendragad Hindi High School, Nagpur,Maharashtra",
+      date: "Aug 2020 - March 2021",
       // grade: "79.8%",
-      desc: "I completed my class 10 education from School of Scholars, Nagpur, Maharashtra, under the CBSE board, where I studied Science, Mathematics, English, Sanskrit and Social Science .",
-      degree: "CBSE(X)",
+      desc: "I completed my class 10 education from Surendragad Hindi High School, Nagpur, Maharashtra, under the Maharashtra State Board(MSBSHSE), where I studied Science, Mathematics, English, Sanskrit and Social Science .",
+      degree: "MSBSHSE(X)",
     },
   ];
   
