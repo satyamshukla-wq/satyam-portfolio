@@ -46,7 +46,7 @@ const Footer = () => {
             },
             {
               icon: <FaLinkedin />,
-              link: "https://www.linkedin.com/in/pawan-pandey-ab4546231/",
+              link: "https://www.linkedin.com/in/satyam-shukla-674562350/",
             },
             {
               icon: <FaInstagram />,
