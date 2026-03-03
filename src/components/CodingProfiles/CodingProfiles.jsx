@@ -26,7 +26,7 @@ const codingProfiles = [
   {
     id: 4,
     name: "GitHub",
-    url: "https://github.com/Pawan-Pandey1",
+    url: "https://github.com/satyamshukla-wq",
     logo: GitHubLogo,
   },
 ];
