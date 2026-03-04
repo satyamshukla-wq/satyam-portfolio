@@ -184,9 +184,7 @@ const About = () => {
             }}
             whileHover={{ color: '#e5e7eb' }}
           >
-            Goal-oriented engineering student with a solid foundation in Data Structures and Algorithms (DSA) and practical
-            experience in web development. Passionate about crafting scalable, efficient solutions and eager to contribute to
-            impactful projects within a dynamic and collaborative team environment.
+            I am an Enthusiastic student of Computer Applications with practical knowledge of web development and a strong interest in building responsive and user-friendly websites. I focus on writing clean and efficient code while continuously improving my technical skills. I am passionate about learning new technologies and eager to contribute to real-world projects. I enjoy working in collaborative environments where I can grow as a web developer.
           </motion.p>
 
           {/* Resume Button */}
