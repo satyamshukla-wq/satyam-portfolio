@@ -67,7 +67,7 @@ const Footer = () => {
 
         {/* Copyright */}
         <p className="text-sm text-gray-400 mt-6">
-          © 2026 Satyam Shukla. All rights reserved.
+          © 2025 Pawan Pandey. All rights reserved.
         </p>
       </div>
     </footer>
