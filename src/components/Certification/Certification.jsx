@@ -48,7 +48,7 @@ const certificates = [
   },
   {
     id: 7,
-    name: "                       ",
+    name: "            #certification name           ",
     platform: "Coursera",
     logo: CourseraLogo,
     url: "https://coursera.org/share/ff89b81ef3dd6a418dc43d895f3b3aba",
@@ -63,7 +63,7 @@ const certificates = [
 
    {
     id: 9,
-    name: "Java FullStack Developer",
+    name: "            #certification name           ",
     platform: "Coursera",
     logo: CourseraLogo,
     url: "https://coursera.org/share/b4ceb96f5d8f0bef2c229f678042eeb1",
