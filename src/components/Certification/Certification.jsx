@@ -41,14 +41,14 @@ const certificates = [
   },
   {
     id: 6,
-    name: "Database Structures and Management with MySQL",
+    name: "             ",
     platform: "Coursera",
     logo: CourseraLogo,
     url: "https://coursera.org/share/ea376bdf62d0561f15b9c9b4fe73ce91",
   },
   {
     id: 7,
-    name: "Database Structures and Management with MySQL",
+    name: "                       ",
     platform: "Coursera",
     logo: CourseraLogo,
     url: "https://coursera.org/share/ff89b81ef3dd6a418dc43d895f3b3aba",
