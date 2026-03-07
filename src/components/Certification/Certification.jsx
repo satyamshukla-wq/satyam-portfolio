@@ -55,7 +55,7 @@ const certificates = [
   },
   {
     id: 8,
-    name: "Introduction to NoSQL Databases",
+    name: "            #certification name           ",
     platform: "Coursera",
     logo: CourseraLogo,
     url: "https://coursera.org/share/a938002cb10378fb0bca29a144aeb786",
@@ -71,7 +71,7 @@ const certificates = [
 
    {
     id: 10,
-    name: "AWS Fundamentals",
+    name: "            #certification name           ",
     platform: "Coursera",
     logo: CourseraLogo,
     url: "https://coursera.org/share/04700a97dc4506317c98ba62a944647f",
