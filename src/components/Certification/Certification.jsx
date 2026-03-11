@@ -41,7 +41,7 @@ const certificates = [
   },
   {
     id: 6,
-    name: "             ",
+    name: "       pyhton      ",
     platform: "Coursera",
     logo: CourseraLogo,
     url: "https://coursera.org/share/ea376bdf62d0561f15b9c9b4fe73ce91",
