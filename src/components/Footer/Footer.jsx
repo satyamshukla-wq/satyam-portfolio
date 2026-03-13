@@ -50,7 +50,7 @@ const Footer = () => {
             },
             {
               icon: <FaInstagram />,
-              link: "https://www.instagram.com/_pawwan_/?igsh=Z2t0bDBhOG9oeXF1#",
+              link: "                #instagram link             ",
             },
           ].map((item, index) => (
             <a
