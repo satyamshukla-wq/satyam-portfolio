@@ -42,7 +42,7 @@ const Footer = () => {
           {[
             {
               icon: <FaTwitter />,
-              link: "https://x.com/pawwannnnn?t=r-U6fa0NfeSZ1cJ6QvbFog&s=09",
+              link: "            #twitter link",
             },
             {
               icon: <FaLinkedin />,
