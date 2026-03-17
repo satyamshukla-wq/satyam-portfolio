@@ -20,7 +20,7 @@ const codingProfiles = [
   {
     id: 3,
     name: "Codolio",
-    url: "https://codolio.com/profile/_pawwan_",
+    url: "#https://codolio.com/profile/_pawwan_",
     logo: CodolioLogo,
   },
   {
