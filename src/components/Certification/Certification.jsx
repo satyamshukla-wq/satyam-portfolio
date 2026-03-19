@@ -44,7 +44,7 @@ const certificates = [
     name: "       pyhton      ",
     platform: "Coursera",
     logo: CourseraLogo,
-    url: "https://coursera.org/share/ea376bdf62d0561f15b9c9b4fe73ce91",
+    url: "#course link ",
   },
   {
     id: 7,
@@ -58,7 +58,7 @@ const certificates = [
     name: "            #certification name           ",
     platform: "Coursera",
     logo: CourseraLogo,
-    url: "https://coursera.org/share/a938002cb10378fb0bca29a144aeb786",
+    url: "# course link ",
   },
 
    {
