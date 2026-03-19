@@ -74,7 +74,7 @@ const certificates = [
     name: "            data analythics           ",
     platform: "Coursera",
     logo: CourseraLogo,
-    url: " #link ",
+    url: " #link for course",
   },
 ];
 
