@@ -30,7 +30,7 @@ const certificates = [
     name: "Crash Course on Python",
     platform: "Coursera",
     logo: CourseraLogo,
-    url: "https://coursera.org/share/76cd0f08cf90e3414eef192c79e565f6",
+    url: "#link ...................................",
   },
   {
     id: 5,
