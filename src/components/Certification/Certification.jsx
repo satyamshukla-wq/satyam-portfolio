@@ -34,7 +34,7 @@ const certificates = [
   },
   {
     id: 5,
-    name: "Introduction to Web Development with HTML, CSS, JavaScript",
+    name: "#certificate name ",
     platform: "Coursera",
     logo: CourseraLogo,
     url: "#link ...................................",
