@@ -71,7 +71,7 @@ const certificates = [
 
    {
     id: 10,
-    name: "            data analythics           ",
+    name: "            data analythics  ............         ",
     platform: "Coursera",
     logo: CourseraLogo,
     url: "https://coursera.org/share/04700a97dc4506317c98ba62a944647f",
