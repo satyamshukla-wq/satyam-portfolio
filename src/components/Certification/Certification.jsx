@@ -58,7 +58,7 @@ const certificates = [
     name: "            #certification name           ",
     platform: "Coursera",
     logo: CourseraLogo,
-    url: "# course link ",
+    url: "# course link............. ",
   },
 
    {
