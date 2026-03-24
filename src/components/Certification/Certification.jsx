@@ -63,7 +63,7 @@ const certificates = [
 
    {
     id: 9,
-    name: "            #certification name           ",
+    name: "            #certification name..............           ",
     platform: "Coursera",
     logo: CourseraLogo,
     url: "# course link............",
