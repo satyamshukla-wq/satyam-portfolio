@@ -25,13 +25,13 @@ const certificates = [
     logo: CourseraLogo,
     url: "https://drive.google.com/file/d/17r65ZI0d4g8q2Y8WcQYgPB19t-7KJsO2/view?usp=sharing",
   },
-  {
-    id: 4,
-    name: "Crash Course on Python",
-    platform: "Coursera",
-    logo: CourseraLogo,
-    url: "#link ...................................",
-  },
+  // {
+  //   id: 4,
+  //   name: "Crash Course on Python",
+  //   platform: "Coursera",
+  //   logo: CourseraLogo,
+  //   url: "#link ...................................",
+  // },
   {
     id: 5,
     name: "#certificate name ",
