@@ -32,13 +32,13 @@ const certificates = [
   //   logo: CourseraLogo,
   //   url: "#link ...................................",
   // },
-  {
-    id: 5,
-    name: "#certificate name ",
-    platform: "Coursera",
-    logo: CourseraLogo,
-    url: "#link ...................................",
-  },
+  // {
+  //   id: 5,
+  //   name: "#certificate name ",
+  //   platform: "Coursera",
+  //   logo: CourseraLogo,
+  //   url: "#link ...................................",
+  // },
   {
     id: 6,
     name: "       pyhton      ",
