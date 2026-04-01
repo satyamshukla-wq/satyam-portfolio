@@ -39,13 +39,13 @@ const certificates = [
   //   logo: CourseraLogo,
   //   url: "#link ...................................",
   // },
-  {
-    id: 6,
-    name: "       pyhton      ",
-    platform: "Coursera",
-    logo: CourseraLogo,
-    url: "#course link ",
-  },
+  // {
+  //   id: 6,
+  //   name: "       pyhton      ",
+  //   platform: "Coursera",
+  //   logo: CourseraLogo,
+  //   url: "#course link ",
+  // },
   {
     id: 7,
     name: "        #certification name           ",
