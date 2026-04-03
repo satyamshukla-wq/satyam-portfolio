@@ -53,29 +53,29 @@ const certificates = [
   //   logo: CourseraLogo,
   //   url: "               #link ..............       ",
   // },
-  {
-    id: 8,
-    name: "            #certification name           ",
-    platform: "Coursera",
-    logo: CourseraLogo,
-    url: "# course link............. ",
-  },
+  // {
+  //   id: 8,
+  //   name: "            #certification name           ",
+  //   platform: "Coursera",
+  //   logo: CourseraLogo,
+  //   url: "# course link............. ",
+  // },
 
-   {
-    id: 9,
-    name: "            #certification name..............           ",
-    platform: "Coursera",
-    logo: CourseraLogo,
-    url: "# course link............",
-  },
+  //  {
+  //   id: 9,
+  //   name: "            #certification name..............           ",
+  //   platform: "Coursera",
+  //   logo: CourseraLogo,
+  //   url: "# course link............",
+  // },
 
-   {
-    id: 10,
-    name: "            data analythics  ............         ",
-    platform: "Coursera",
-    logo: CourseraLogo,
-    url: "#course link............",
-  },
+  //  {
+  //   id: 10,
+  //   name: "            data analythics  ............         ",
+  //   platform: "Coursera",
+  //   logo: CourseraLogo,
+  //   url: "#course link............",
+  // },
 ];
 
 const Certification = () => {
