@@ -23,7 +23,7 @@ import netlifyLogo from './assets/tech_logo/netlify.png';
 // import intellij from './assets/tech_logo/intellij.png';
 
 // // Experience Section Logo's
-import jpmorgan from './assets/company_logo/JpMorgan.png';
+import jpmorgan from './assets/company_logo/yuvaintern.png';
 import sync from './assets/company_logo/Sync.jpg';
 import oasis from './assets/company_logo/Oasis.jpg';
 
