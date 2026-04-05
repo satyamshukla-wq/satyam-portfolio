@@ -130,7 +130,7 @@ export const SkillsInfo = [
       role: "Web Developer Intern",
       company: "Yuva intern",
       date: "May 2025",
-      desc: "The role involved working with a robust tech stack, including Java, Maven, Spring, Kafka, SQL, and REST APIs. My responsibilities encompassed setting up the development environment, integrating necessary dependencies, configuring a database connection, and implementing Kafka for messaging. Additionally, I incorporated external REST APIs to enhance functionality.",
+      desc: "As a Web Developer Intern, I built responsive web pages using HTML, CSS, and JavaScript, ensuring they worked well on all devices. I improved UI components to make them more user-friendly and visually appealing. I applied best practices of web development, such as writing clean code and optimizing performance. I focused on creating interactive and accessible elements for a better user experience. My work helped in making websites both functional and easy to navigate. Overall, I gained a strong understanding of frontend web development and user-centered design.",
       skills: [
         "HTML",
         "CSS",
