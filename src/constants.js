@@ -127,16 +127,15 @@ export const SkillsInfo = [
     {
       id: 0,
       img: jpmorgan,
-      role: "Software Engineering Job Simulation",
-      company: "JPMorgan Chase & Co.",
+      role: "Web Developer Intern",
+      company: "Yuva intern",
       date: "May 2025",
       desc: "The role involved working with a robust tech stack, including Java, Maven, Spring, Kafka, SQL, and REST APIs. My responsibilities encompassed setting up the development environment, integrating necessary dependencies, configuring a database connection, and implementing Kafka for messaging. Additionally, I incorporated external REST APIs to enhance functionality.",
       skills: [
-        "Java",
-        "Spring",
-        "Kafka",
-        "REST API",
-        "SQL",
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "Responsive Design",
       ],
     },
     {
