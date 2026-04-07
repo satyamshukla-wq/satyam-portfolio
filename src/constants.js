@@ -138,33 +138,33 @@ export const SkillsInfo = [
         "Responsive Design",
       ],
     },
-    {
-      id: 1,
-      img: oasis,
-      role: "Java Intern",
-      company: "Oasis Infobyte",
-      date: "May 2023",
-      desc: " I worked on several practical projects using Java and Core Java, focusing on solving everyday problems through effective programming.  I utilized Core Java concepts like object-oriented programming, file handling, and data structures to ensure efficient and robust functionality.",
-      skills: [
-        "Java",
-        "Java Core",
-        "Java Swing",
-      ],
-    },
-    {
-      id: 2,
-      img: sync,
-      role: "Python Intern",
-      company: "SYNC interns",
-      date: "June 2023",
-      desc: "I developed multiple projects using Python, focusing on creating efficient solutions for everyday scenarios. These projects utilized key Python libraries such as pandas for data manipulation, Tkinter for creating user-friendly graphical interfaces, and matplotlib for visualizing data.",
-      skills: [
-        "Python",
-        "Tkinter",
-        "Pandas",
-        "Matplotlib",
-      ],
-    },
+    // {
+    //   id: 1,
+    //   img: oasis,
+    //   role: "Java Intern",
+    //   company: "Oasis Infobyte",
+    //   date: "May 2023",
+    //   desc: " I worked on several practical projects using Java and Core Java, focusing on solving everyday problems through effective programming.  I utilized Core Java concepts like object-oriented programming, file handling, and data structures to ensure efficient and robust functionality.",
+    //   skills: [
+    //     "Java",
+    //     "Java Core",
+    //     "Java Swing",
+    //   ],
+    // },
+    // {
+    //   id: 2,
+    //   img: sync,
+    //   role: "Python Intern",
+    //   company: "SYNC interns",
+    //   date: "June 2023",
+    //   desc: "I developed multiple projects using Python, focusing on creating efficient solutions for everyday scenarios. These projects utilized key Python libraries such as pandas for data manipulation, Tkinter for creating user-friendly graphical interfaces, and matplotlib for visualizing data.",
+    //   skills: [
+    //     "Python",
+    //     "Tkinter",
+    //     "Pandas",
+    //     "Matplotlib",
+    //   ],
+    // },
   ];
   
   export const education = [
