@@ -69,13 +69,13 @@ const certificates = [
   //   url: "# course link............",
   // },
 
-   {
-    id: 10,
-    name: "            data analythics  ............         ",
-    platform: "Coursera",
-    logo: CourseraLogo,
-    url: "#course link............",
-  },
+  //  {
+  //   id: 10,
+  //   name: "            data analythics  ............         ",
+  //   platform: "Coursera",
+  //   logo: CourseraLogo,
+  //   url: "#course link............",
+  // },
 ];
 
 const Certification = () => {
