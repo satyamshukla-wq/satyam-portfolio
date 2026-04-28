@@ -173,7 +173,7 @@ export const SkillsInfo = [
       img: CU,
       school: "G.S. College of Commerce and Economics,Nagpur",
       date: "Aug 2023 - July 2026",
-      grade: "8.54 CGPA",
+      grade: "7.80 CGPA",
       desc: " I have completed my Bachelor's degree (Bachelor of Commerce in Computer Applications - BCCA). During my academic journey, I developed a strong foundation in computer applications and information technology, with coursework in Programming, Database Management Systems, Web Technologies, and Software Development. I actively participated in technical workshops and activities that enhanced my practical knowledge and problem-solving skills. The BCCA program played a key role in strengthening my technical competence and professional growth. Bachelor's degree (Bachelor of Commerce in Computer Applications - BCCA). During my academic journey, I built a strong foundation in computer applications and information technology. My coursework included Programming Concepts, Database Management Systems, Web Technologies, Software Development, Data Management, and System Applications. I actively participated in technical workshops and academic activities, which helped me strengthen my practical knowledge and problem-solving skills. My experience during the BCCA program has significantly contributed to the development of my technical competence and overall professional growth.",
       degree: "(BCCA)Bachelor of Commerce in Computer Application(Computer Application)",
     },
@@ -236,11 +236,7 @@ ContactHub is tailored for individuals or businesses looking for a clean, functi
     "Spring Boot",
     "Java",
     "MySQL",
-    "Tailwind CSS",
-    "Thymeleaf",
-    "Cloudinary",
-    "OAuth2",
-    "Flowbite"
+    
   ],
   github: "https://github.com/Pawan-Pandey1/Contact-Hub",
   webapp: "https://github.com/Pawan-Pandey1/Contact-Hub",
