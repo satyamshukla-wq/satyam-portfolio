@@ -30,7 +30,7 @@ const certificates = [
     name: "Crash Course on Python",
     platform: "Coursera",
     logo: CourseraLogo,
-    url: "#link ...................................",
+    url: "https://drive.google.com/file/d/1ElQXbrlRr8NCDn5oLk-ckZZ_q480iQ4I/view?usp=sharing",
   },
   // {
   //   id: 5,
