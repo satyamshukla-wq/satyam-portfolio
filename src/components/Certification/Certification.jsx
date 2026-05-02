@@ -27,8 +27,8 @@ const certificates = [
   },
   {
     id: 4,
-    name: "Crash Course on Python",
-    platform: "Coursera",
+    name: "Javascript ES6",
+    platform: "Unstop",
     logo: CourseraLogo,
     url: "https://drive.google.com/file/d/1ElQXbrlRr8NCDn5oLk-ckZZ_q480iQ4I/view?usp=sharing",
   },
