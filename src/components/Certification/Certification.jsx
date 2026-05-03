@@ -1,6 +1,6 @@
 import React from "react";
 import Unstoplogo from "../../assets/Unstoplogo.jpeg";
-import NptelLogo from "../../assets/nptel-logo.png";
+import DeloitteLogo from "../../assets/Deloitte-Logo.jpg";
 
 const certificates = [
   {
@@ -14,7 +14,7 @@ const certificates = [
     id: 2,
     name: "Technology Job Simulation",
     platform: "Deloitte.",
-    logo: NptelLogo,
+    logo: DeloitteLogo,
     url:"https://drive.google.com/file/d/1dcKQ7lqxybJJ9N-qABck1p3v200rkThN/view?usp=sharing",
   },
   {
@@ -28,18 +28,10 @@ const certificates = [
     id: 1,
     name: "GenAI Powered Data Analytics Job Simulation",
     platform: "TATA(Forage)",
-    logo: NptelLogo,
+    logo: DeloitteLogo,
     url:"https://drive.google.com/file/d/1kGjdzxztKXVCK6DQHrdcvw352q7SbXwL/view?usp=sharing"
      ,
   },
-
-
- 
-
-
-
-
-
   // {
   //   id: 5,
   //   name: "#certificate name ",
