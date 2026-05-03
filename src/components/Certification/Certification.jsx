@@ -1,15 +1,14 @@
 import React from "react";
-import CourseraLogo from "../../assets/coursera-logo.jpg";
+import CourseraLogo from "../../assets/Unstoplogo.jpeg";
 import NptelLogo from "../../assets/nptel-logo.png";
 
 const certificates = [
   {
-    id: 1,
-    name: "GenAI Powered Data Analytics Job Simulation",
-    platform: "TATA(Forage)",
-    logo: NptelLogo,
-    url:"https://drive.google.com/file/d/1kGjdzxztKXVCK6DQHrdcvw352q7SbXwL/view?usp=sharing"
-     ,
+   id: 4,
+    name: "Javascript ES6",
+    platform: "Unstop",
+    logo: CourseraLogo,
+    url: "https://drive.google.com/file/d/1ElQXbrlRr8NCDn5oLk-ckZZ_q480iQ4I/view?usp=sharing",
   },
   {
     id: 2,
@@ -26,12 +25,21 @@ const certificates = [
     url: "https://drive.google.com/file/d/17r65ZI0d4g8q2Y8WcQYgPB19t-7KJsO2/view?usp=sharing",
   },
   {
-    id: 4,
-    name: "Javascript ES6",
-    platform: "Unstop",
-    logo: CourseraLogo,
-    url: "https://drive.google.com/file/d/1ElQXbrlRr8NCDn5oLk-ckZZ_q480iQ4I/view?usp=sharing",
+    id: 1,
+    name: "GenAI Powered Data Analytics Job Simulation",
+    platform: "TATA(Forage)",
+    logo: NptelLogo,
+    url:"https://drive.google.com/file/d/1kGjdzxztKXVCK6DQHrdcvw352q7SbXwL/view?usp=sharing"
+     ,
   },
+
+
+ 
+
+
+
+
+
   // {
   //   id: 5,
   //   name: "#certificate name ",
