@@ -1,5 +1,5 @@
 import React from "react";
-import CourseraLogo from "../../assets/Unstoplogo.jpeg";
+import Unstoplogo from "../../assets/Unstoplogo.jpeg";
 import NptelLogo from "../../assets/nptel-logo.png";
 
 const certificates = [
@@ -7,7 +7,7 @@ const certificates = [
    id: 4,
     name: "Javascript ES6",
     platform: "Unstop",
-    logo: CourseraLogo,
+    logo: Unstoplogo,
     url: "https://drive.google.com/file/d/1ElQXbrlRr8NCDn5oLk-ckZZ_q480iQ4I/view?usp=sharing",
   },
   {
@@ -21,7 +21,7 @@ const certificates = [
     id: 3,
     name: "Data Science Job Simulation",
     platform: "Forage",
-    logo: CourseraLogo,
+    logo: Unstoplogo,
     url: "https://drive.google.com/file/d/17r65ZI0d4g8q2Y8WcQYgPB19t-7KJsO2/view?usp=sharing",
   },
   {
