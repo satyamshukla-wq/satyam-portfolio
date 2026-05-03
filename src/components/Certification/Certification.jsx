@@ -2,6 +2,7 @@ import React from "react";
 import Unstoplogo from "../../assets/Unstoplogo.jpeg";
 import DeloitteLogo from "../../assets/Deloitte-Logo.jpg";
 import Foragelogo from "../../assets/Foragelogo.png";
+import ForageBLogo from "../../assets/ForageBLogo.png";
 
 const certificates = [
   {
@@ -29,7 +30,7 @@ const certificates = [
     id: 1,
     name: "GenAI Powered Data Analytics Job Simulation",
     platform: "TATA(Forage)",
-    logo: DeloitteLogo,
+    logo: ForageBLogo,
     url:"https://drive.google.com/file/d/1kGjdzxztKXVCK6DQHrdcvw352q7SbXwL/view?usp=sharing"
      ,
   },
