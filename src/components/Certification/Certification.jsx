@@ -1,6 +1,7 @@
 import React from "react";
 import Unstoplogo from "../../assets/Unstoplogo.jpeg";
 import DeloitteLogo from "../../assets/Deloitte-Logo.jpg";
+import Foragelogo from "../../assets/Foragelogo.png";
 
 const certificates = [
   {
@@ -21,7 +22,7 @@ const certificates = [
     id: 3,
     name: "Data Science Job Simulation",
     platform: "Forage",
-    logo: Unstoplogo,
+    logo: Foragelogo,
     url: "https://drive.google.com/file/d/17r65ZI0d4g8q2Y8WcQYgPB19t-7KJsO2/view?usp=sharing",
   },
   {
