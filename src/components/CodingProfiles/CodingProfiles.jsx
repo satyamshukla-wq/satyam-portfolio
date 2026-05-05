@@ -8,7 +8,7 @@ const codingProfiles = [
   {
     id: 1,
     name: "LeetCode",
-    url: "https://leetcode.com/u/_pawwan_/",
+    url: "https://leetcode.com/u/satyamshukla18/",
     logo: LeetCodeLogo,
   },
   {
