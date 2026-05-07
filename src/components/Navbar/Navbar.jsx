@@ -122,7 +122,7 @@ const Navbar = () => {
             ))}
             <div className="flex space-x-6 pt-2">
               <a
-                href="https://github.com/satyamshukla-wq"
+                href="https://github.com/satyamshu"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-gray-300 hover:text-orange-500"
