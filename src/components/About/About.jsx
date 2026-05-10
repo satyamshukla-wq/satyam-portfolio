@@ -200,7 +200,7 @@ const About = () => {
             }}
           >
             <motion.a
-              href="https://drive.google.com/file/d/1ZAyIy9Dk6JxNllo9-qA-1p6s8ghHTG8L/view?usp=sharing"
+              href="https://drive.google.com/file/d/1iC83HZpn079DKN03DE3aTJ0c8ea5euRc/view?usp=sharing"
               target="_blank"
               rel="noopener noreferrer"
               className="inline-block text-white py-4 px-10 rounded-full mt-5 text-lg font-bold relative overflow-hidden group cursor-pointer"
