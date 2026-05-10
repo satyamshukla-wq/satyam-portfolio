@@ -307,7 +307,7 @@ This backend API empowers hospitals to digitize and optimize their workflows, en
     "Spring Boot",
     "MySQL",
     "Postman",
-    "JPA", 
+    "....", 
     "Hibernate"
   ],
   github: "https://github.com/Pawan-Pandey1/HospitalManagementSystem",
