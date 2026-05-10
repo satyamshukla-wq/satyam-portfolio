@@ -287,7 +287,7 @@ Hospital Management System is a modular, scalable backend API designed to stream
 
 
 🗂️ Core Features
-- Add, view, update, and delete Patients, Doctors, and Bills
+- Add, view, update, and delete Patients, Doctors and Bills
 - Clean RESTful endpoints using standard HTTP methods
 - Layered architecture: Controller → Service → Repository
 - Relational mapping via JPA & Hibernate for robust data integrity
