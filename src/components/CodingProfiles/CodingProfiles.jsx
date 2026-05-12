@@ -11,12 +11,12 @@ const codingProfiles = [
     url: "https://leetcode.com/u/satyamshukla18/",
     logo: LeetCodeLogo,
   },
-  {
-    id: 2,
-    name: "GeeksforGeeks",
-    url: "https://www.geeksforgeeks.org/user/_pawwan_/",
-    logo: GfgLogo,
-  },
+  // {
+  //   id: 2,
+  //   name: "GeeksforGeeks",
+  //   url: "https://www.geeksforgeeks.org/user/_pawwan_/",
+  //   logo: GfgLogo,
+  // },
   {
     id: 3,
     name: "Codolio",
