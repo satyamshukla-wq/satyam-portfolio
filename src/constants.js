@@ -247,21 +247,23 @@ ContactHub is tailored for individuals or businesses looking for a clean, functi
   id: 1,
   title: "Quora Clone – Backend API",
   description: `
-Quora Clone Backend API is a scalable and modular RESTful service built with Java and Spring Boot, designed to power a question-and-answer platform similar to Quora. It enables users to register, post questions, provide answers, comment on answers and comments, like content, follow other users, and organize content via topic tags.
-
+CoffeeBliss is a scalable and responsive restaurant ordering system developed using HTML, CSS, JavaScript, and PHP, designed to deliver a seamless food ordering experience. It enables secure user authentication, categorized menu browsing, and interactive order management through a structured and user-friendly interface, demonstrating practical full-stack web development skills.
 🗂️ Core Features
-- User registration and profile management
-- Posting, searching, and filtering questions by text and topics
-- Answer creation, editing, and nested commenting
-- Like system for questions, answers, and comments
-- Follow/unfollow functionality for users
-- Topic tagging for questions
-- Use of DTOs to prevent infinite recursion and control data exposure
+- User registration and secure login system
+- Responsive and user-friendly interface
+- Categorized menu browsing for easy navigation
+- Dynamic food ordering and order management
+- PHP and MySQL integration for efficient data handling
+- Mobile-friendly design compatible with different devices
+- Demonstrates practical full-stack web development skills 💡
 
 💡 Tech Stack & Tools Used
-- Backend: Java, Spring Boot
-- Database: MySQL for persistent and relational data storage
-- Testing: Postman
+-Tech Stack & Tools Used
+-Frontend: HTML, CSS, JavaScript
+-Backend: PHP
+-Database: MySQL for efficient data storage and management
+-Tools: VS Code, XAMPP
+-Version Control: Git and GitHub
 
 `,
   images: [q0, q1, q2, q3, q4, q5, q6, q7, q8, q9, q10, q11, q12, q13],
@@ -281,7 +283,7 @@ Quora Clone Backend API is a scalable and modular RESTful service built with Jav
 
   {
   id: 2,
-  title: "Hospital Management System – Backend API",
+  title: "Restaurant-ordering-system-s – Backend API",
   description: `
 Hospital Management System is a modular, scalable backend API designed to streamline hospital operations, built with Java, Spring Boot, and MySQL. It enables efficient management of patients, doctors, and billing records, supporting seamless integration with any frontend.
 
