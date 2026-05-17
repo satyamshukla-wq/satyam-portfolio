@@ -43,22 +43,21 @@ import scm6 from "./assets/work_logo/scm/scm6.jpg";
 import scm7 from "./assets/work_logo/scm/scm7.jpg";
 import scm8 from "./assets/work_logo/scm/scm8.jpg";
 
-import q0 from "./assets/work_logo/Quora/QuoraBackendeBanner.png";
-import q1 from "./assets/work_logo/Quora/createanswer.jpg";
-import q2 from "./assets/work_logo/Quora/getuserbyid.jpg";
-import q3 from "./assets/work_logo/Quora/createquestion.jpg";
-import q4 from "./assets/work_logo/Quora/getquestion.jpg";
-import q5 from "./assets/work_logo/Quora/likequestion.jpg";
-import q6 from "./assets/work_logo/Quora/updateanswer.jpg";
-import q7 from "./assets/work_logo/Quora/likeanswer.jpg";
-import q8 from "./assets/work_logo/Quora/createcomment.jpg";
-import q9 from "./assets/work_logo/Quora/getallcomment.jpg";
-import q10 from "./assets/work_logo/Quora/likecomment.jpg";
-import q11 from "./assets/work_logo/Quora/replycomment.jpg";
-import q12 from "./assets/work_logo/Quora/followuser.jpg";
-import q13 from "./assets/work_logo/Quora/getalltopics.jpg";
-import q14 from "./assets/work_logo/Quora/createtopic.jpg";
-import q15 from "./assets/work_logo/Quora/createuser.jpg";
+import q0 from "./assets/work_logo/Quora/q0.png";
+import q1 from "./assets/work_logo/Quora/q1.png";
+import q2 from "./assets/work_logo/Quora/q2.png";
+import q3 from "./assets/work_logo/Quora/q3.png";
+import q4 from "./assets/work_logo/Quora/q4.png";
+import q5 from "./assets/work_logo/Quora/q5.png";
+import q6 from "./assets/work_logo/Quora/q6.png";
+import q7 from "./assets/work_logo/Quora/q7.png";
+import q8 from "./assets/work_logo/Quora/q8.png";
+import q9 from "./assets/work_logo/Quora/q9.png";
+import q10 from "./assets/work_logo/Quora/q10.png";
+import q11 from "./assets/work_logo/Quora/q11.png";
+import q12 from "./assets/work_logo/Quora/q12.png";
+import q13 from "./assets/work_logo/Quora/q13.png";
+
 
 import h0 from "./assets/work_logo/HMS/h0.png";
 import h1 from "./assets/work_logo/HMS/H1.jpg";
@@ -267,7 +266,7 @@ CoffeeBliss is a scalable and responsive restaurant ordering system developed us
 -Version Control: Git and GitHub
 
 `,
-  images: [q0, q1, q2, q3, q4, q5, q6, q7, q8, q9, q10, q11, q12, q13, q14, q15],
+  images: [q0, q1, q2, q3, q4, q5, q6, q7, q8, q9, q10, q11, q12, q13],
   tags: [
   "HTML",
   "CSS",
