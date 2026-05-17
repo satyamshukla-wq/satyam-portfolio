@@ -57,7 +57,8 @@ import q10 from "./assets/work_logo/Quora/likecomment.jpg";
 import q11 from "./assets/work_logo/Quora/replycomment.jpg";
 import q12 from "./assets/work_logo/Quora/followuser.jpg";
 import q13 from "./assets/work_logo/Quora/getalltopics.jpg";
-
+import q14 from "./assets/work_logo/Quora/createtopic.jpg";
+import q15 from "./assets/work_logo/Quora/createuser.jpg";
 
 import h0 from "./assets/work_logo/HMS/h0.png";
 import h1 from "./assets/work_logo/HMS/H1.jpg";
@@ -266,7 +267,7 @@ CoffeeBliss is a scalable and responsive restaurant ordering system developed us
 -Version Control: Git and GitHub
 
 `,
-  images: [q0, q1, q2, q3, q4, q5, q6, q7, q8, q9, q10, q11, q12, q13],
+  images: [q0, q1, q2, q3, q4, q5, q6, q7, q8, q9, q10, q11, q12, q13, q14, q15],
   tags: [
   "HTML",
   "CSS",
