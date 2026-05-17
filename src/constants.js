@@ -268,13 +268,14 @@ CoffeeBliss is a scalable and responsive restaurant ordering system developed us
 `,
   images: [q0, q1, q2, q3, q4, q5, q6, q7, q8, q9, q10, q11, q12, q13],
   tags: [
-    "Java",
-    "Spring Boot",
-    "MySQL",
-    "JPA", 
-    "Hibernate",
-    "UUID", 
-    "Postman"
+  "HTML",
+  "CSS",
+  "JavaScript",
+  "PHP",
+  "MySQL",
+  "XAMPP",
+  "Git",
+  "GitHub"
   ],
   github: "https://github.com/Pawan-Pandey1/Quora-API-Backend/tree/main",
   webapp: "https://github.com/Pawan-Pandey1/Quora-API-Backend/tree/main",
