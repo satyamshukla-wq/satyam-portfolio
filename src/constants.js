@@ -278,7 +278,7 @@ CoffeeBliss is a scalable and responsive restaurant ordering system developed us
   "GitHub"
   ],
   github: "https://github.com/satyamshukla-wq/Restaurant-ordering-system-s",
-  webapp: "https://github.com/Pawan-Pandey1/Quora-API-Backend/tree/main",
+  webapp: "https://github.com/satyamshukla-wq/Restaurant-ordering-system-s",
   },
   
 
