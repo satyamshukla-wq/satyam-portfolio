@@ -14,7 +14,7 @@ const codingProfiles = [
   // {
   //   id: 2,
   //   name: "GeeksforGeeks",
-  //   url: "https://www.geeksforgeeks.org/user/_pawwan_/",
+  //   url: "              link here             ",
   //   logo: GfgLogo,
   // },
   {
