@@ -284,7 +284,7 @@ CoffeeBliss is a scalable and responsive restaurant ordering system developed us
 
   {
   id: 2,
-  title: "Restaurant-ordering-system-s – Backend API",
+  title: "Hospital Management System – Backend API",
   description: `
 Hospital Management System is a modular, scalable backend API designed to streamline hospital operations, built with Java, Spring Boot, and MySQL. It enables efficient management of patients, doctors, and billing records, supporting seamless integration with any frontend.
 
